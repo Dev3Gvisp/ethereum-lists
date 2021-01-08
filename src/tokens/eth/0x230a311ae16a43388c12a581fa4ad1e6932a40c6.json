@@ -1,0 +1,37 @@
+{
+"symbol": "cPRO",
+
+"name": "CP Processor",
+
+"type": "ERC20",
+
+"address": "0x230a311ae16a43388c12a581fa4ad1e6932a40c6",
+"ens_address": "",
+"decimals": 18,
+"website": "https://coinpaymentprocessor.org/",
+"logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "support@coinpaymentprocessor.org",
+    "url": "https://coinpaymentprocessor.org/en/Goverment/contact.html"
+},
+"social": {
+    "blog": "https://medium.com/cp-processor",
+    "chat": "",
+    "facebook": "https://www.facebook.com/CPProcessor/",
+    "forum": "",
+    "github": "https://github.com/DevCPProcessor",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/company/coinpaymentprocessor/",
+    "reddit": "https://www.reddit.com/user/CP_Processor/",
+    "slack": "",
+    "telegram": "https://t.me/CP_Processor",
+    "twitter": "https://twitter.com/CP_Processor",
+    "youtube": ""
+}
+}
